@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       CanliDers1
- * Plugin URI:        https://github.com/blindsidenetworks/wordpress-plugin_canliders1
+ * Plugin URI:        https://github.com/dogangokce/wpcanliders
  * Description:       CanliDers1, açık kaynaklı bir web konferans sistemi olan BigBlueButton'un wordpress için yazılmış eklentisinin v.3.0.0 sürümünün çoğaltılmış halidir. Daha fazla bilgi için yazara ulaşabilirsiniz. 
  * Version:           3.0.0-beta.4
  * Author:            Doğan GOGCE
