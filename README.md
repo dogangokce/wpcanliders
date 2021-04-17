@@ -1,6 +1,6 @@
 === CanliDers1 ===
 Donate link: https://dogangokce.com
-Tags: blindsidenetworks, canliders1, opensource, open source, web, conferencing, webconferencing
+Tags:canliders1, opensource, open source, web, conferencing, webconferencing
 Requires at least: 5.1
 Tested up to: 5.3.2
 Requires PHP: 7.2
